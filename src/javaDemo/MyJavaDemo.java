@@ -1,9 +1,9 @@
-
+package javaDemo;
 public class MyJavaDemo {
 
 	public static void main(String[] args) {
 		
-		System.out.print("de");
+		System.out.println("Hello World");
 
 	}
 
