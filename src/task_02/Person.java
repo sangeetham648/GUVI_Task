@@ -46,6 +46,8 @@ public class Person {
         System.out.println("Person name with correct age");
         person2.displayInfo();
 
+        s.close();
+        
 	}
 
 }

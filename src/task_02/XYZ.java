@@ -55,6 +55,8 @@ public class XYZ {
 
         double totalAmountSpent = calculateTotalAmount(products);
         System.out.println("Total amount spent on all products: " + totalAmountSpent);
+        
+        s.close();
 
 	}
 	

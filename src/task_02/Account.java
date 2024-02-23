@@ -67,6 +67,8 @@ public class Account {
 		
 		System.out.print("Check Available balance : " + account.displayBalance());
 		
+		s.close();
+		
 	}
 
 }
